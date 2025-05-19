@@ -45,8 +45,7 @@ useGSAP(() => {
       <a href="#highlights" className="btn">Buy</a>
       <p className="font-normal text-xl">From R1200/month or R28000</p>
     </div>
-
-    <button className="border"></button>
+    
    </section>
   )
 }
