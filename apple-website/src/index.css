@@ -61,10 +61,12 @@ canvas {
   display: flex;
   align-items: center;
   justify-content: center;
-  background-color: #d1d5db; /* gray-300 */
+  background-color: #132034; /* gray-300 */
   backdrop-filter: blur(10px);
   border-radius: 9999px;
   padding: 1rem;
+  margin-top: 1rem;
+  margin-inline: 0.25rem;
 }
 
 .size-btn-container {
@@ -84,6 +86,7 @@ canvas {
   color: black;
   border-radius: 9999px;
   transition: all 0.3s ease;
+  cursor: pointer;
 }
 
 .common-padding {
