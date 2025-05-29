@@ -4,7 +4,6 @@
 * {
   margin: 0;
   box-sizing: border-box;
-  font-family: sans-serif;
 }
 
 body {
@@ -319,4 +318,10 @@ canvas {
 .g_fadeIn {
   opacity: 0;
   transform: translateY(100px);
+}
+
+.feature_container {
+  margin-top: 8rem;
+  margin-bottom: 6rem;
+  padding-left: 6rem;
 }
