@@ -18,7 +18,7 @@ const ModelView = (index, groupRef, gsapType, controlRef, setRotationSize, size,
     
       <Lights />
       <Suspense fallback={<Html><div>Loading...</div></Html>}>
-        {/* <IPhone /> */}
+        <IPhone />
       </Suspense> 
     </View>
   )

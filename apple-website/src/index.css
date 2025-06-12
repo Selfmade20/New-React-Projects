@@ -307,6 +307,12 @@ canvas {
   background-color: #d1d5db;
 }
 
+.footer_margin {
+  margin-top: 0.75rem;
+}
+
+
+
 @media (min-width: 640px) {
   .video-carousel_container {
     width: 70vw;
